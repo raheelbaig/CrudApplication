@@ -1,0 +1,21 @@
+.main{
+    padding:20px;
+}
+
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+#alert1{
+  margin-top:10px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+  color:#000000;
+  
+}
+
+table{
+  background:#555;
+  color:#fff !important;
+}
